@@ -9,7 +9,7 @@ In this project, I built an NFT preview card component and worked on matching th
 - Understood how selectors like `.parent:hover .child` target a child element when the parent is hovered.
 
 ## Project
-- Live Site URL: 
+- Live Site URL: https://daxitaseervi.github.io/nft-preview-card/
 ![Project Screenshot](images/project-screenshot.png)
 
 ## Links
